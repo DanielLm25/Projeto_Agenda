@@ -1,0 +1,13 @@
+[26-Apr-2024 23:07:05 UTC] PHP Warning:  include_once(templater/header.php): Failed to open stream: No such file or directory in /home/daniel/Projeto_Agenda/index.php on line 2
+[26-Apr-2024 23:07:05 UTC] PHP Warning:  include_once(): Failed opening 'templater/header.php' for inclusion (include_path='.:/usr/share/php') in /home/daniel/Projeto_Agenda/index.php on line 2
+[26-Apr-2024 23:07:05 UTC] PHP Warning:  include_once(templater/footer.php): Failed to open stream: No such file or directory in /home/daniel/Projeto_Agenda/index.php on line 8
+[26-Apr-2024 23:07:05 UTC] PHP Warning:  include_once(): Failed opening 'templater/footer.php' for inclusion (include_path='.:/usr/share/php') in /home/daniel/Projeto_Agenda/index.php on line 8
+[26-Apr-2024 23:49:05 UTC] PHP Warning:  Undefined variable $dbname in /home/daniel/Projeto_Agenda/config/connection.php on line 10
+[26-Apr-2024 23:50:23 UTC] PHP Warning:  Undefined variable $passa in /home/daniel/Projeto_Agenda/config/connection.php on line 10
+[27-Apr-2024 00:51:01 UTC] PHP Warning:  include_once(templates/header.php): Failed to open stream: No such file or directory in /home/daniel/Projeto_Agenda/index.php on line 2
+[27-Apr-2024 00:51:01 UTC] PHP Warning:  include_once(): Failed opening 'templates/header.php' for inclusion (include_path='.:/usr/share/php') in /home/daniel/Projeto_Agenda/index.php on line 2
+[27-Apr-2024 00:51:01 UTC] PHP Warning:  Undefined variable $contacts in /home/daniel/Projeto_Agenda/index.php on line 9
+[27-Apr-2024 00:51:01 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/daniel/Projeto_Agenda/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/daniel/Projeto_Agenda/index.php on line 9
